@@ -16,9 +16,9 @@ I grew up doing gymnastics and was a gymnast for The University of North Carolin
 
 But I know you came here for more than that so here are some facts about me.
 
-College: The University of North Carolina - Chapel Hill 
-Year: Junior
-Major: Computer Science
+College: The University of North Carolina - Chapel Hill <br/>
+Year: Junior <br/>
+Major: Computer Science<br/>
 Minor: Chemistry
 
 ![image](/IMG_1508.jpg)
