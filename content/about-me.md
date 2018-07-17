@@ -21,7 +21,7 @@ Year: Junior <br/>
 Major: Computer Science<br/>
 Minor: Chemistry
 
-![image](/IMG_1508.jpg)
+![image](/IMG_1508.jpg=250x250)
 
 
 You can stalk me below:
