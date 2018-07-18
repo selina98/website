@@ -93,6 +93,7 @@ Dates: 2016-2017<br/>
 *********************************************************************************<br/>
 **<font size="5">SKILLS	 </font>**  <br/>
 
+
 ***Computer science and programming skills:*** Java, Pythonm HTML<br/>
 ***Design Skills:*** Adobe Photoshop, Lightroom, Basic Illustrator<br/>
 Self-taught Photographer<br/>
