@@ -28,6 +28,6 @@ You can stalk me below:
 
 [github](https://github.com/selina98)
 [linkedin](https://www.linkedin.com/in/selina-zhang-a1930b123/)
-[instagram](httpsL//www.instagram.com/selzhang)
+[instagram](https://www.instagram.com/selzhang)
 
 
