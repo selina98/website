@@ -3,7 +3,7 @@ title: "call me selina"
 date: 2018-06-14T10:20:57-04:00
 draft: false
 showDate: false
-type : post
+
 
 ---
 
