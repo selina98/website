@@ -5,7 +5,7 @@ draft: false
 showDate: false
 
 ---
-Downloadable Resume: [pdf](/7-17-2017.pdf)
+Downloadable Resume: [pdf](/8-24-2018.pdf)
 
 **<font size="5">EDUCATION</font>**   <br/>                                                                  
 
@@ -55,7 +55,7 @@ Bachelor of Science: Biology and Computer Science <br/>						           GPA: 3.6
 
 *********************************************************************************<br/>
 **<font size="5">LEADERSHIP EXPERIENCE </font>**<br/>                                                                                                                      
-**<font size="4">Richard A. Baddour Carolina Leadership Academy	</font>**  <br/>       ***<u>Carolina Accelerate***</u> <br/>                                                                                                                                                     Dates: 2017-Now<br/>
+**<font size="4">Richard A. Baddour Carolina Leadership Academy	</font>**  <br/>       ***<u>Carolina Accelerate***</u> <br/>                                                                                                                                        Dates: 2017-Now<br/>
 •	Leadership program for second-years fostering leadership and communication skills<br/>
 ***<u>Carolina CREED***</u><br/>
 Dates: 2016-2018<br/>
@@ -74,6 +74,26 @@ Dates: 2016-2017<br/>
 •	Day long leadership event with multiple activities planned for kids within the community</br>
 • Planned months in advance
 
+**<font size="4">Shark-a-thon</font>**<br/>
+***Location:*** Cincinnati Children’s <br/>
+***Dates:*** Summer 2018 <br/>
+•	Worked with Amazon Spot to create a new program regarding drug interactions<br/>
+•	Marketed the skill to a panel using a business model <br/>
+•	Coded using Amazon Sandbox, Visual Code Editor, and Python<br/>
+•   Worked with a professional in the business school<br/>
+•   Silver Medalist Finishers<br/>
+
+*********************************************************************************<br/>
+**<font size="5">VOLUNTEERING</font>**  <br/>
+
+**<font size="4">Buckley's Public Service Scholar</font>**<br/>
+***Requirements:*** <br/>
+•	300 hours of Service <br/>
+•	One-service learning course <br/>
+•	Four approved skills trainings <br/>
+•	Senior reflection activity<br/>
+•	Minimum cumulative GPA 3.0+<br/>
+
 **<font size="4">Carolina Outreach</font>**  <br/>
 ***Location:*** Chapel Hill<br/>
 ***Dates:*** 2016-Now<br/>
@@ -82,19 +102,15 @@ Dates: 2016-2017<br/>
 •	Pediatric Playroom: Plan events/activities for kids undergoing chemotherapy<br/>
 •   Support Group Aids: Watch over kids whose parents attend a support group due to  losing a spouse
 
+**<font size="4"> UNC Hospital's</font>**  <br/>
+***Dates:*** August 2018 – Current<br/>
+Hospital Volunteer<br/>
 
-**<font size="4">Shark-a-thon</font>**<br/>
-***Location:*** Cincinnati Children’s <br/>
-***Dates:*** Summer 2018 <br/>
-•	Worked with Amazon Spot to create a new program regarding drug interactions<br/>
-•	Marketed the skill to a panel using a business model <br/>
-•	Coded using Amazon Sandbox, Visual Code Editor, and Python<br/>
-•   Worked with a professional in the business school<br/>
 *********************************************************************************<br/>
 **<font size="5">SKILLS	 </font>**  <br/>
 
 
-***Computer science and programming skills:*** Java, Pythonm HTML<br/>
+***Computer science and programming skills:*** Java, Python, HTML<br/>
 ***Design Skills:*** Adobe Photoshop, Lightroom, Basic Illustrator<br/>
 Self-taught Photographer<br/>
 ***Languages:*** English (fluent), Mandarin (fluent), German (basic)
