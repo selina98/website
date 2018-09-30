@@ -10,5 +10,5 @@ below is a brand manual I created including a business card, letter head, and re
 
 Brand Manual: [pdf](/Brand Manual.pdf) <br/>
 Business LetterHead: [pdf](/Business letterhead.pdf) <br/>
-Business Card: [pdf](/Business_Card_Converted_(1).pdf) <br/>
+Business Card: [pdf](/Business_Card _Converted_ (1).pdf) <br/>
 Resume: [pdf](/9.26.2018 Resume.pdf)
