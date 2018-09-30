@@ -38,4 +38,7 @@ pygmentsCodefences      = true
 [[params.mainMenu]]
     link = "/gallery"
     text = "what she's seen"
-    
+
+[[params.mainMenu]]
+    link = "/graphics"
+    text = "what she's created"

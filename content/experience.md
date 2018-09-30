@@ -5,7 +5,7 @@ draft: false
 showDate: false
 
 ---
-Downloadable Resume: [pdf](/8-24-2018.pdf) <br/>
+Downloadable Resume: [pdf](/9.26.2018 Resume.pdf) <br/>
 
 **<font size="5">EDUCATION</font>**   <br/>                                                                  
 
