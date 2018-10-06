@@ -5,7 +5,7 @@ draft: false
 showDate: false
 
 ---
-Downloadable Resume: [pdf](/9.26.2018 Resume.pdf) <br/>
+Downloadable Resume: [pdf](/resume.pdf) <br/>
 
 **<font size="5">EDUCATION</font>**   <br/>                                                                  
 
@@ -110,8 +110,8 @@ Hospital Volunteer<br/>
 **<font size="5">SKILLS	 </font>**  <br/>
 
 
-***Computer science and programming skills:*** Java, Python, HTML<br/>
-***Design Skills:*** Adobe Photoshop, Lightroom, Basic Illustrator<br/>
+***Computer Science and Programming Skills:*** Java, R, CSS, HTML<br/>
+***Design Skills:*** Adobe Photoshop, Lightroom, Illustrator, InDesign<br/>
 Self-taught Photographer<br/>
 ***Languages:*** English (fluent), Mandarin (fluent), German (basic)
 
