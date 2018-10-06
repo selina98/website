@@ -11,7 +11,7 @@ One year from now...
 
 I WILL be ready to graduate.<br/>
 I WILL have taken the MCAT.<br/>
-I WILL have another internship lined up in research or in tech.<br/>
+I WILL have an internship lined up in tech.<br/>
 I WILL be planning to travel abroad in aid of third world countries.
 
 Five years from now...
@@ -22,8 +22,7 @@ Long-term goals...
 
 Manage a successful photography business.<br/>
 Retire and become a paid travel photographer.<br/>
-Live happily ever after.<br/>
-Become an entrepenuer of a fad such as silly bands.<br/>
+Become an entrepenuer <br/>
 Open my own private practice.<br/>
 Create an popular app.
 
