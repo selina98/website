@@ -23,7 +23,7 @@ Design Principles </br>
 
 Interviews 
 
-I set out to ask people, students, professors. 
+I set out to ask people, students, professors. </br>
 1. What do you like about Sakai?</br>
 2. What do you not like about Sakai?</br>
 3. What issues did you find when using Sakai?</br>
