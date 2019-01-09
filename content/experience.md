@@ -5,7 +5,7 @@ draft: false
 showDate: false
 
 ---
-Downloadable Resume: [pdf](/resume.pdf) <br/>
+Downloadable Resume: [pdf](/resume1.pdf) <br/>
 
 **<font size="5">EDUCATION</font>**   <br/>                                                                  
 

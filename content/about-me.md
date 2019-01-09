@@ -18,7 +18,7 @@ But I know you came here for more than that so here are some facts about me.
 
 College: The University of North Carolina - Chapel Hill <br/>
 Year: Junior <br/>
-Major: Computer Science<br/>
+Major: Computer Science, Biology<br/>
 Minor: Chemistry
 
 ![image](/IMG_1508.jpg)
